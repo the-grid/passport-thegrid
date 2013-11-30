@@ -1,0 +1,25 @@
+{
+  "name": "passport-thegrid",
+  "version": "0.0.0",
+  "description": "The Grid authentication strategy for Passport",
+  "main": "./lib/passport-thegrid",
+  "scripts": {
+    "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/the-grid/passport-thegrid.git"
+  },
+  "author": "Henri Bergius <henri.bergius@iki.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the-grid/passport-thegrid/issues"
+  },
+  "dependencies": {
+    "pkginfo": "~0.3.0",
+    "passport-oauth": "~1.0.0"
+  },
+  "devDependencies": {
+    "vows": "~0.7.0"
+  }
+}
