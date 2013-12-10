@@ -1,6 +1,6 @@
 {
   "name": "passport-thegrid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Grid authentication strategy for Passport",
   "main": "./lib/passport-thegrid",
   "scripts": {
