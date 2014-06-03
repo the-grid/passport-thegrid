@@ -1,7 +1,7 @@
 {
   "name": "passport-thegrid",
   "version": "0.0.2",
-  "description": "The Grid authentication strategy for Passport",
+  "description": "TheGrid authentication strategy for Passport",
   "main": "./lib/passport-thegrid",
   "scripts": {
     "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
